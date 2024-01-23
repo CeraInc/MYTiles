@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Encaustic Tile L202",
+    "pic": "https://res.cloudinary.com/drewhmc8g/image/upload/v1705457660/floor%20bath/g%E1%BA%A1ch_b%C3%B4ng_L202._men_wke5rz.jpg",
+    "price": 19.99,
+    "material": "Ceramic",
+    "size": "250x250mm",
+    "color": "  Black, White"
+  },
+  {
+    "name": "Fico floor Tile LUX4217G.",
+    "pic": "https://res.cloudinary.com/drewhmc8g/image/upload/v1705457660/floor%20bath/G%E1%BA%A0CH_L%C3%81T_N%E1%BB%80N_40_40_FICO_LUX4217G.ban_s%E1%BB%A9_ortyml.jpg",
+    "price": 24.99,
+    "material": "Glazed Porcelain",
+    "size": "400x400mm",
+    "color": "Grey"
+  },
+  {
+    "name": "Terrazzo Floor Tile ",
+    "pic": "https://res.cloudinary.com/drewhmc8g/image/upload/v1705457661/floor%20bath/G%E1%BA%A1ch_l%C3%A1t_n%E1%BB%81n_Terrazzo_pstejk.png",
+    "price": 39.99,
+    "material": "Ceramic",
+    "size": "600x600mm",
+    "color": "Multi Color"
+  },
+  {
+    "name": "Hamilton Matte Charcoal Concrete Look Tile",
+    "pic": "https://res.cloudinary.com/drewhmc8g/image/upload/v1705372756/Wall%20bathroom/Hamilton_Matte_Charcoal_Concrete_Look_Tile_f34if7.jpg",
+    "price": 34.99,
+    "material": "Porcelain",
+    "size": "300x600mm",
+    "color": "Grey"
+  },
+  {
+    "name": "Marble Mosaic Tile",
+    "pic": "https://res.cloudinary.com/drewhmc8g/image/upload/v1705457662/floor%20bath/mosaic_%C4%91%C3%A1_marble._th%E1%BB%A7y_tinh_tr%C3%A1ng_men_hlj18l.png",
+    "price": 14.99,
+    "material": "Glazed Porcelain",
+    "size": "600x600mm",
+    "color": "Multi Color"
+  },
+  {
+    "name": "Gray-Toned Stone Veins Floor Tiles",
+    "pic": "https://res.cloudinary.com/drewhmc8g/image/upload/v1705457660/floor%20bath/gach-lat-nen-tong-xam.men_vrkggx.jpg",
+    "price": 34.99,
+    "material": "Porcelain",
+    "size": "600x600mm",
+    "color": "Grey"
+  }
+]

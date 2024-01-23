@@ -1,0 +1,51 @@
+[
+    {
+      "name": "Antiga Modular Tiles",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705472802/floor%20kitchen/Antiga_Modular_Porcelain_Wall_And_Floor_Tiles_y6glx0.png",
+      "price": 19.99,
+      "material": "Porcelain",
+      "size": "free size",
+      "color": "Ivory"
+    },
+    {
+      "name": "Arizona Anti Slip Tile",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705472801/floor%20kitchen/Arizona_Anti_Slip_Grey_Stone_Effect_Matt_Porcelain_Floor_Tile_o7rjhp.jpg",
+      "price": 24.99,
+      "material": "Porcelain",
+      "size": "600x600mm",
+      "color": "Grey"
+    },
+    {
+      "name": "Carrara White Polished Tile",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705472800/floor%20kitchen/Carrara_White_Polished_Marble_Porcelain_Floor_Tile_fm7cck.jpg",
+      "price": 39.99,
+      "material": "Porcelain",
+      "size": "300x300mm",
+      "color": "White"
+    },
+    {
+      "name": "Foresta Beige Mixed Wood Effect Matt Tile",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705472801/floor%20kitchen/Foresta_Beige_Mixed_Wood_Effect_Matt_Ceramic_Floor_Tile_yjw9eq.jpg",
+      "price": 29.99,
+      "material": "Ceramic ",
+      "size": "1200x600mm",
+      "color": "Brown"
+    },
+    {
+      "name": "Irvine Grey Distressed Tile",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705472803/floor%20kitchen/IRVINE_GREY_DISTRESSED_LIMESTONE_TILES_d7xrkq.jpg",
+      "price": 14.99,
+      "material": "Porcelain",
+      "size": "1200x600mm",
+      "color": "Grey"
+    },
+    {
+      "name": "Ofelia Porcelain Floor Tiles",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705472802/floor%20kitchen/Ofelia_Porcelain_Floor_Tiles_cnde5x.jpg",
+      "price": 34.99,
+      "material": "Porcelain",
+      "size": "600x600mm",
+      "color": "Multi Color"
+    }
+  ]
+   

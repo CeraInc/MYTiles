@@ -1,0 +1,51 @@
+[
+    {
+      "name": "Brunswick Gloss White 605",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705372756/Wall%20bathroom/Brunswick_Gloss_White_605_wvpiuc.webp",
+      "price": 19.99,
+      "material": "Porcelain",
+      "size": "275x290mm",
+      "color": "White"
+    },
+    {
+      "name": "Fitzroy Gloss Mixed Green Feather Tile",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705372756/Wall%20bathroom/Fitzroy_Gloss_Mixed_Green_Feather_Tile_f1kjox.webp",
+      "price": 24.99,
+      "material": "Porcelain",
+      "size": "90x300mm",
+      "color": "Green"
+    },
+    {
+      "name": "Ocean Beach White Encaustic Look Square Tile",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705372756/Wall%20bathroom/Ocean_Beach_White_Encaustic_Look_Square_Tile_dsrlmv.webp",
+      "price": 39.99,
+      "material": "Porcelain",
+      "size": "200x200mm",
+      "color": "White"
+    },
+    {
+      "name": "Yamba Clay Terrazzo Look Tile",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705372757/Wall%20bathroom/Yamba_Clay_Terrazzo_Look_Tile_fjqw7u.webp",
+      "price": 29.99,
+      "material": "Porcelain  ",
+      "size": "600x600mm",
+      "color": "Clay"
+    },
+    {
+      "name": "White Terrazzo Tiles",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705372756/Wall%20bathroom/g%E1%BA%A1ch_l%C3%A1t_terrazzo_n%E1%BB%81n_m%C3%A0u_tr%E1%BA%AFng_zirrm3.webp",
+      "price": 14.99,
+      "material": "Terrazzo",
+      "size": "600x600mm",
+      "color": "White"
+    },
+    {
+      "name": "Hamilton Matte Charcoal Concrete Look Tile",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705372756/Wall%20bathroom/Hamilton_Matte_Charcoal_Concrete_Look_Tile_f34if7.jpg",
+      "price": 34.99,
+      "material": "Porcelain",
+      "size": "300x600mm",
+      "color": "Grey"
+    }
+  ]
+   

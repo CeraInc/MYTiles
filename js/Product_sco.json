@@ -1,0 +1,51 @@
+[
+    {
+      "name": "Almond",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705500272/special%20cool%20roof/almond_nviwez.jpg",
+      "price": 19.99,
+      "material": "Ceramic, Cool",
+      "size": "600x600mm",
+      "color": "Almond"
+    },
+    {
+      "name": "Ivory",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705500272/special%20cool%20roof/IVORY_zgbe17.jpg",
+      "price": 24.99,
+      "material": "Ceramic, Cool",
+      "size": "600x600mm",
+      "color": "Ivory"
+    },
+    {
+      "name": "Light Grey",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705500273/special%20cool%20roof/light_grey_usfvmp.jpg",
+      "price": 39.99,
+      "material": "Ceramic, Cool",
+      "size": "600x600mm",
+      "color": "Light Grey"
+    },
+    {
+      "name": "Pink",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705500274/special%20cool%20roof/pink_ccxtg9.jpg",
+      "price": 29.99,
+      "material": "Ceramic, Cool",
+      "size": "600x600mm",
+      "color": "Pink"
+    },
+    {
+      "name": "Sky Blue",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705500277/special%20cool%20roof/sky_blue_p0jzzh.jpg",
+      "price": 14.99,
+      "material": "Ceramic, Cool",
+      "size": "600x600mm",
+      "color": "kSy Blue"
+    },
+    {
+      "name": "White",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705500280/special%20cool%20roof/white_wzym1l.jpg",
+      "price": 34.99,
+      "material": "Ceramic, Cool",
+      "size": "600x600mm",
+      "color": "White"
+    }
+  ]
+   

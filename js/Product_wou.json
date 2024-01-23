@@ -1,0 +1,51 @@
+[
+    {
+      "name": "Artistry Charcoal Rock Tiles",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705417399/wall%20outdoor/Artistry_Charcoal_Rock_Tiles_sfj4vp.jpg",
+      "price": 19.99,
+      "material": "Porcelain",
+      "size": "600x600mm",
+      "color": "Grey"
+    },
+    {
+      "name": "Brickvilla Naturale",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705417399/wall%20outdoor/Brickvilla_Naturale_vaebwk.jpg",
+      "price": 24.99,
+      "material": "Ceramic",
+      "size": "600x300mm",
+      "color": "Brown"
+    },
+    {
+      "name": "Eco Outdoor Barrimah Traditional Format",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705417401/wall%20outdoor/Eco-Outdoor-Barrimah-Traditional-Format.1570516696.4476_pkcjxt.webp",
+      "price": 39.99,
+      "material": "Stone",
+      "size": "free size",
+      "color": "Beige"
+    },
+    {
+      "name": "Matte Grey Sandstone Wall Tiles",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705417399/wall%20outdoor/matte-grey-sandstone-wall-tiles-500x500_tvvkdd.webp",
+      "price": 29.99,
+      "material": "Sandstone",
+      "size": "bigsize",
+      "color": "Grey"
+    },
+    {
+      "name": "Sky Blue Basement Porcelain Tiles",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705417398/wall%20outdoor/sky_blue_basement_Porcelain_tiles_v3qs53.webp",
+      "price": 14.99,
+      "material": "Borcelain",
+      "size": "1200x600mm",
+      "color": "Grey"
+    },
+    {
+      "name": "Umbra Mix Porcelain Tile",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705417401/wall%20outdoor/Umbra_Mix_Porcelain_Tile_g7jqa8.jpg",
+      "price": 34.99,
+      "material": "Porcelain",
+      "size": "1200x600mm",
+      "color": "Multi Color"
+    }
+  ]
+   

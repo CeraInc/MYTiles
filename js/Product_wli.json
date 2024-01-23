@@ -1,0 +1,51 @@
+[
+    {
+      "name": "Trend Black Terrazo Multicolour Tile",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705380555/wall%20living/trend_black_terrazo_multicolour_wall_and_floor_tile_454825_2_2300__p1kbn0.jpg",
+      "price": 19.99,
+      "material": "Terrazzo",
+      "size": "800x800mm",
+      "color": "Multi Color"
+    },
+    {
+      "name": "Revival Hoya Powder Tile",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705380553/wall%20living/Revival_Hoya_Powder_Tile_kskxch.webp",
+      "price": 24.99,
+      "material": "Ceramic",
+      "size": "200x200mm",
+      "color": "Blue, White"
+    },
+    {
+      "name": "Baseline Nero Matt Tile",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705380547/wall%20living/Baseline_Nero_Matt_Tile_gce7nl.jpg",
+      "price": 39.99,
+      "material": "Ceramic",
+      "size": "600x600mm",
+      "color": "Cast Iron Brown"
+    },
+    {
+      "name": "Microcosmi Granito Matt Tile",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705380550/wall%20living/Microcosmi_Granito_Matt_Tile_akuuas.webp",
+      "price": 29.99,
+      "material": "Porcelain",
+      "size": "800x800mm",
+      "color": "Multi Color"
+    },
+    {
+      "name": "Mystone Travertino Silver Matt Tile",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705380550/wall%20living/Mystone_Travertino_Silver_Matt_Tile_qexpq7.webp",
+      "price": 14.99,
+      "material": "Porcelain",
+      "size": "600x600mm",
+      "color": "Grey"
+    },
+    {
+      "name": "Norr 2.0 Grus Natural tile",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705380551/wall%20living/Norr_2.0_Grus_Natural_tile_s6symp.jpg",
+      "price": 34.99,
+      "material": "Porcelain",
+      "size": "600x600mm",
+      "color": "Multi Color"
+    }
+  ]
+   

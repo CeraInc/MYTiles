@@ -1,0 +1,51 @@
+[
+    {
+      "name": "Bdm Cemento Squre Blue",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705372855/Wall%20bedroom/bdm_cemento_squre_blue_polwbg.jpg",
+      "price": 19.99,
+      "material": "ceramic",
+      "size": "395x395mm",
+      "color": "Blue, White"
+    },
+    {
+      "name": "Matt 3D Ceramic Bathroom Wall Tile",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705372855/Wall%20bedroom/Florice_3D_Elevation_Ceramic_Wall_Tiles_cr9tgg.webp",
+      "price": 24.99,
+      "material": "Ceramic",
+      "size": "300x450 mm",
+      "color": "Multi Color"
+    },
+    {
+      "name": "Rectus Gris Decor",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705372856/Wall%20bedroom/WTL032HLL12805_rzap5k.jpg",
+      "price": 39.99,
+      "material": "Ceramic",
+      "size": "300x600mm",
+      "color": "Grey"
+    },
+    {
+      "name": "Aeon Beige Polish F1",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705372854/Wall%20bedroom/Aeon_Beige_Polish_F1_kousks.jpg",
+      "price": 29.99,
+      "material": "Ceramic",
+      "size": "60x120mm",
+      "color": "Beige"
+    },
+    {
+      "name": "Crust Liam Grey",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705372855/Wall%20bedroom/Crust_Liam_Grey_bxvo3f.jpg",
+      "price": 14.99,
+      "material": "Ceramic",
+      "size": "300x300mm",
+      "color": "Grey"
+    },
+    {
+      "name": "Axel Beige Decor",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705372856/Wall%20bedroom/TIWACSD600X300NOSM05020_hvvdxk.jpg",
+      "price": 34.99,
+      "material": "Ceramic",
+      "size": "300x600mm",
+      "color": "Beige"
+    }
+  ]
+   

@@ -1,0 +1,51 @@
+[
+    {
+      "name": "Berkshire Parquet Dark Oak Wood Effect Tile",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705483554/floor%20living/berkshire_parquet_dark_oak_wood_effect_porcelain_floor_tile_uhejve.gif",
+      "price": 19.99,
+      "material": "porcelain",
+      "size": "600x600mm",
+      "color": "Brown"
+    },
+    {
+      "name": "Carrara White Polished Marble Porcelain Floor Tile",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705483552/floor%20living/Carrara_White_Polished_Marble_Porcelain_Floor_Tile_ae32go.jpg",
+      "price": 24.99,
+      "material": "Porcelain",
+      "size": "600x600mm",
+      "color": "White"
+    },
+    {
+      "name": "Charcoal Grey Wood Self Adhesive Tile",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705483553/floor%20living/Charcoal_Grey_Wood_12x12_Self_Adhesive_Vinyl_Floor_Tile_ofkvse.jpg",
+      "price": 39.99,
+      "material": "vinyl",
+      "size": "600x600mm",
+      "color": "Grey"
+    },
+    {
+      "name": "Basaltina Stone Grain Tiles",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705483553/floor%20living/G%E1%BA%A1ch_V%C3%A2n_%C4%90%C3%A1_Basaltina_qggftx.jpg",
+      "price": 29.99,
+      "material": "ceramic",
+      "size": "600x1200mm",
+      "color": "Pantellreia"
+    },
+    {
+      "name": "Large Format Floor Tiles",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705483553/floor%20living/H3e12953f6c324e97be4a174d8577dfb8W.jpg_300x300_e92w2v.webp",
+      "price": 14.99,
+      "material": "porcelain",
+      "size": "900x900mm",
+      "color": "Black"
+    },
+    {
+      "name": "Trend Black Terrazo Multicolour Tile",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705483553/floor%20living/trend_black_terrazo_multicolour_wall_and_floor_tile_454825_2_2300__xhjuid.jpg",
+      "price": 34.99,
+      "material": "porcelain",
+      "size": "600x600mm",
+      "color": "Black"
+    }
+  ]
+   

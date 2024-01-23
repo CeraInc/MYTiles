@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Aeon Beige Polish F1",
+    "pic": "https://res.cloudinary.com/drewhmc8g/image/upload/v1705372854/Wall%20bedroom/Aeon_Beige_Polish_F1_kousks.jpg",
+    "price": 29.99,
+    "material": "Ceramic",
+    "size": "60x120mm",
+    "color": "Beige"
+  },
+  {
+    "name": "FloorPops Luminary Peel & Stick Vinyl ",
+    "pic": "https://res.cloudinary.com/drewhmc8g/image/upload/v1705459680/floor%20bed/FloorPops_Luminary_adhesive_Peel_Stick_Vinyl_Floor_Tiles_uc5u7w.jpg",
+    "price": 24.99,
+    "material": "Porcelain",
+    "size": "600x600mm",
+    "color": "Black, White"
+  },
+  {
+    "name": "Larchmont Color Canton",
+    "pic": "https://res.cloudinary.com/drewhmc8g/image/upload/v1705459681/floor%20bed/LARCHMONT_GLAZED_PORCELAIN_color_canton_aci4lg.jpg",
+    "price": 39.99,
+    "material": "Glazed Porcelain",
+    "size": "6x24inch",
+    "color": "Caton"
+  },
+  {
+    "name": "Serene Grey Natural Tiles",
+    "pic": "https://res.cloudinary.com/drewhmc8g/image/upload/v1705459682/floor%20bed/Serene_Grey_Natural_Glazed_Vitrified_Tiles_v7pq6t.jpg",
+    "price": 29.99,
+    "material": "Porcelain",
+    "size": "1200x600mm",
+    "color": "Grey"
+  },
+  {
+    "name": "Messina Beige Polished Porcelain Tile",
+    "pic": "https://res.cloudinary.com/drewhmc8g/image/upload/v1705459681/floor%20bed/Messina_Beige_Polished_Porcelain_Tile_tjgfto.jpg",
+    "price": 14.99,
+    "material": "Porcelain",
+    "size": "1200x600mm",
+    "color": "Beige"
+  },
+  {
+    "name": "Tivoli Self Adhesive Vinyl Floor Tiles",
+    "pic": "https://res.cloudinary.com/drewhmc8g/image/upload/v1705459681/floor%20bed/Tivoli_Self_Adhesive_Vinyl_Floor_Tiles_45_Tiles_j2oi4f.jpg",
+    "price": 34.99,
+    "material": "Vinyl",
+    "size": "1200x600mm",
+    "color": "Brown"
+  }
+]

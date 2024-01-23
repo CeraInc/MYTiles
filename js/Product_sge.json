@@ -1,0 +1,51 @@
+[
+    {
+      "name": "Eurotile HOD D01 Tiles",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705496843/special%20germ%20free/Eurotile_HOD_D01_tiles_aywo2m.jpg",
+      "price": 19.99,
+      "material": "stone",
+      "size": "300x900mm",
+      "color": "Multi Color"
+    },
+    {
+      "name": "Strip Wood Grey Germfree Forever Tile",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705496843/special%20germ%20free/gft_bdf_strip_wood_grey_f1_germfree_forever_tiles_porcelain_floor_tile_600x600_mm_2_orhogt.jpg",
+      "price": 24.99,
+      "material": "Porcelain",
+      "size": "600x600mm",
+      "color": "Grey"
+    },
+    {
+      "name": "Alaska Wood Natural",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705496844/special%20germ%20free/gft_bdw_alaska_wood_natural_ft_600x600_mm_1_fwrfjv.jpg",
+      "price": 39.99,
+      "material": "Porcelain",
+      "size": "300x300mm",
+      "color": "Grey"
+    },
+    {
+      "name": "Blenda Ivory Tile",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705496843/special%20germ%20free/gft_ft_blenda_ivory_f1_j9bv9o.jpg",
+      "price": 29.99,
+      "material": "Glazed Porcelain",
+      "size": "450x450mm",
+      "color": "Ivory"
+    },
+    {
+      "name": "Travertino Beige",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705496843/special%20germ%20free/gft_pgvt_s-travertino_beige_f1_germfree_glazed_vitrified_tiles_wall_floor_tile_600x600mm_otoqwg.jpg",
+      "price": 14.99,
+      "material": "Glazed Vitrified",
+      "size": "600x600mm",
+      "color": "Beige"
+    },
+    {
+      "name": "Viglacera ECO S609 Floor Tiles",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705496842/special%20germ%20free/Viglacera_ECO_S609_floor_tiles_u6qpb7.jpg",
+      "price": 34.99,
+      "material": "Porcelain",
+      "size": "600x600mm",
+      "color": "Beige"
+    }
+  ]
+   

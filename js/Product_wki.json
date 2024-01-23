@@ -1,0 +1,51 @@
+[
+    {
+      "name": "Celine White Decor Tile",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705378715/wall%20kitchen/Celine_White_Decor_Tile_g4dplz.webp",
+      "price": 19.99,
+      "material": "Ceramic",
+      "size": "450x900mm",
+      "color": "White"
+    },
+    {
+      "name": "Marble Arch Wall Tile",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705378716/wall%20kitchen/Marble_Arch_Wall_Tile_pmssel.webp",
+      "price": 24.99,
+      "material": "Ceramic",
+      "size": "75x150mm",
+      "color": "White"
+    },
+    {
+      "name": "Swoon Black Tile",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705378720/wall%20kitchen/Swoon_Black_Tile_jhfpso.webp",
+      "price": 39.99,
+      "material": "Porcelain",
+      "size": "165x165mm",
+      "color": "Black"
+    },
+    {
+      "name": "Harmony Sky Wall Tile",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705378716/wall%20kitchen/hak_3_1_mgaugn.webp",
+      "price": 29.99,
+      "material": "Ceramic",
+      "size": "75x150mm",
+      "color": "Blue"
+    },
+    {
+      "name": "Saigon Mix Patterned Tile",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705378718/wall%20kitchen/Saigon_Mix_Patterned_Tile_z2jlyd.webp",
+      "price": 14.99,
+      "material": "Porcelain",
+      "size": "165 x 165 mm",
+      "color": "Multi Color"
+    },
+    {
+      "name": "Zellige Grey Wall Tile",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705378721/wall%20kitchen/Zellige_Grey_Wall_Tile_gm9epb.webp",
+      "price": 34.99,
+      "material": "Porcelain",
+      "size": "600x600mm",
+      "color": "Grey"
+    }
+  ]
+   

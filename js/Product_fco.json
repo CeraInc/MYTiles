@@ -1,0 +1,51 @@
+[
+    {
+      "name": "Essential Silver Natural Tile",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705472132/floor%20comm/essential_ESS03N_silver_natural_450x450x7.8mm.jpg.GLAZED_PORCELAIN_xcrnyi.jpg",
+      "price": 19.99,
+      "material": "Glazed porcelain",
+      "size": "450x450mm",
+      "color": "Silver"
+    },
+    {
+      "name": "Eterna Arena str rt Tile",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705472132/floor%20comm/eterna_arena_str_rt_tile_oak6vp.jpg",
+      "price": 24.99,
+      "material": "Porcelain",
+      "size": "600x600mm",
+      "color": "Beige"
+    },
+    {
+      "name": "Galassia Canapa New Tiles",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705472133/floor%20comm/galassia_canapa_new_tiles_ap7qh3.jpg",
+      "price": 39.99,
+      "material": "Porcelain",
+      "size": "300x300mm",
+      "color": "Beige"
+    },
+    {
+      "name": "Minerals Flint Natural Tile",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705472132/floor%20comm/minerals_MIN4DN_flint_natural_1200x600mm_ductile.jpg.275x275_q85_crop_upscale_PORCELAIN_CERAMIC_orcfcp.jpg",
+      "price": 29.99,
+      "material": "Porcelain",
+      "size": "1200x600mm",
+      "color": "Flint"
+    },
+    {
+      "name": "Ragno Realstone Lunar Deep Grey Tile",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705472132/floor%20comm/ragno_realstone_lunar_r8dk-550x550_ragno_realstone_lunar_deep_grey_szgr45.jpg",
+      "price": 14.99,
+      "material": "Porcelain",
+      "size": "600x600mm",
+      "color": "Grey"
+    },
+    {
+      "name": "Sound Smoke Tile",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705472133/floor%20comm/sound_smoke_tiles_sdtddo.jpg",
+      "price": 34.99,
+      "material": "Porcelain",
+      "size": "600x600mm",
+      "color": "Grey"
+    }
+  ]
+   

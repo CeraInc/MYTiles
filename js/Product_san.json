@@ -1,0 +1,51 @@
+[
+    {
+      "name": "Anti Static Conductive Blue Dk Tile",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705498977/special%20anti/anti_static_conductive_blue_dk_600x600_mm_1_obs9hk.jpg",
+      "price": 19.99,
+      "material": "anti static, glazed vetrified",
+      "size": "600x600mm",
+      "color": "Blue dk"
+    },
+    {
+      "name": "Anti Static Conductive Blue Lt Tile",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705498977/special%20anti/anti_static_conductive_blue_lt_600x600_mm_rumgqx.jpg",
+      "price": 24.99,
+      "material": "anti static, glazed vetrified",
+      "size": "600x600mm",
+      "color": "Blue lt"
+    },
+    {
+      "name": "EHM Stacked Stone Charcoal Grey",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705498980/special%20anti/ehm_stacked_stone_charcoal_grey_1_mieffs.jpg",
+      "price": 39.99,
+      "material": "anti static",
+      "size": "600x600mm",
+      "color": "Charcoal Grey"
+    },
+    {
+      "name": "ATFLOR Anti-Static Vinyl Tiles",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705689838/special%20anti/Screenshot_2024-01-20_at_01.43.47_zcmdzg.png",
+      "price": 29.99,
+      "material": "Glazed Porcelain  ",
+      "size": "450x450mm",
+      "color": "Silver"
+    },
+    {
+      "name": "ESD pvc floor tiles",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705690632/special%20anti/Screenshot_2024-01-20_at_01.57.04_sp8mmq.png",
+      "price": 14.99,
+      "material": "porcelain",
+      "size": "30x30mm",
+      "color": "grey"
+    },
+    {
+      "name": "Permanent Anti-Static PVC Vinyl Tiles",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705690781/special%20anti/Screenshot_2024-01-20_at_01.59.36_onn5kq.png",
+      "price": 34.99,
+      "material": "porcelain",
+      "size": "1200x600mm",
+      "color": "Flint"
+    }
+  ]
+   

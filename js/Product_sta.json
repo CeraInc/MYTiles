@@ -1,0 +1,51 @@
+[
+    {
+      "name": "Tac Button Ivory",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705501360/special%20tactiles/TAC_BUTTON_IVORY_a4ahqx.jpg",
+      "price": 19.99,
+      "material": "Ceramic",
+      "size": "600x600mm",
+      "color": "Ivory"
+    },
+    {
+      "name": "Tac Button Terracotta",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705501360/special%20tactiles/TAC_BUTTON_TERRACOTTA_fdluut.jpg",
+      "price": 24.99,
+      "material": "Ceramic",
+      "size": "600x600mm",
+      "color": "Terracotta"
+    },
+    {
+      "name": "Tac Button Yellow",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705501361/special%20tactiles/TAC_LINER_MANGO_YELLOW_b0tjzv.jpg",
+      "price": 39.99,
+      "material": "Ceramic",
+      "size": "600x600mm",
+      "color": "Yellow"
+    },
+    {
+      "name": "Tac Liner Mango Yellow",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705501361/special%20tactiles/TAC_LINER_MANGO_YELLOW_b0tjzv.jpg",
+      "price": 29.99,
+      "material": "Ceramic",
+      "size": "600x600mm",
+      "color": "Yellow"
+    },
+    {
+      "name": "Tac Liner Terracotta",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705501361/special%20tactiles/TAC_LINER_TERRACOTTA_zrrpes.jpg",
+      "price": 14.99,
+      "material": "Ceramic",
+      "size": "30x30mm",
+      "color": "Terracotta"
+    },
+    {
+      "name": "Tac Liner Yellow",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705501362/special%20tactiles/TAC_LINER_YELLOW_etjkns.jpg",
+      "price": 34.99,
+      "material": "Ceramic",
+      "size": "600x600mm",
+      "color": "Yellow"
+    }
+  ]
+   

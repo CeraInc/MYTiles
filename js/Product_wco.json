@@ -1,0 +1,51 @@
+[
+    {
+      "name": "Epoca Beige Cabochon Mosaic Tiles",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705376537/Wall%20bedroom/comm_wall/epoca_beige_cabochon_mosaic_tiles_q9lbqn.jpg",
+      "price": 19.99,
+      "material": "Porcelain",
+      "size": "250x250mm",
+      "color": "uMlti Color"
+    },
+    {
+      "name": "Eterna Arena Str Rt Tile",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705376538/Wall%20bedroom/comm_wall/eterna_arena_str_rt_tile_i2eepq.jpg",
+      "price": 24.99,
+      "material": "Porcelain",
+      "size": "600x600mm",
+      "color": "Beige"
+    },
+    {
+      "name": "Ragno Realstone Lunar Deep Grey",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705376539/Wall%20bedroom/comm_wall/ragno_realstone_lunar_r8dk-550x550_ragno_realstone_lunar_deep_grey_zzjs2h.jpg",
+      "price": 39.99,
+      "material": "Porcelain",
+      "size": "300x300mm",
+      "color": "Grey"
+    },
+    {
+      "name": "Essential – Silver Natural",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705376537/Wall%20bedroom/comm_wall/essential_ESS03N_silver_natural_450x450x7.8mm.jpg.GLAZED_PORCELAIN_qsg2gt.jpg",
+      "price": 29.99,
+      "material": "Glazed Porcelain  ",
+      "size": "450x450mm",
+      "color": "Silver"
+    },
+    {
+      "name": "Roots Grey Mosaico Tiles",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705376541/Wall%20bedroom/comm_wall/roots_grey_mosaico_tiles_kng4ll.webp",
+      "price": 14.99,
+      "material": "Porcelain",
+      "size": "30x30mm",
+      "color": "Grey"
+    },
+    {
+      "name": "Minerals – Flint Natural Ductile",
+      "pic" : "https://res.cloudinary.com/drewhmc8g/image/upload/v1705376538/Wall%20bedroom/comm_wall/minerals_MIN4DN_flint_natural_1200x600mm_ductile.jpg.275x275_q85_crop_upscale_PORCELAIN_CERAMIC_etiqpi.jpg",
+      "price": 34.99,
+      "material": "Porcelain",
+      "size": "1200x600mm",
+      "color": "Flint"
+    }
+  ]
+   

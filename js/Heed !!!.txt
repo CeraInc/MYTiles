@@ -1,0 +1,8 @@
+There are 3 product groups and 16 product types in total. Please divide them into 16 "Product.json", 
+each named using the first letter of the product group and the first two letters of the product type.
+For example, for "Wall tiles - Bathroom," the name should be "Product_wba.json."
+
+Within the 16 product types, there will be 6 products each. Therefore, 
+ensure the Product names are correctly structured for accurate JSON readability.
+
+Thank you.

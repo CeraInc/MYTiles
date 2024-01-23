@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/header.css">
+    <link rel="stylesheet" href="css/menu.css">
+    <link rel="stylesheet" href="css/footer.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Jomolhari&display=swap">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://getbootstrap.com/docs/5.3/assets/css/docs.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+
+    <style>
+        body {
+            font-family: 'Jomolhari', serif;
+        }
+
+        nav {
+            display: flex;
+            margin-left: 30px;
+        }
+
+        .header_icon {
+            display: flex;
+            margin-left: 380px;
+        }
+
+        .image-pick {
+            position: relative;
+            display: inline-block;
+        }
+
+        footer {
+            background-color: #FFFACD;
+            padding: 5px;
+            box-sizing: border-box;
+        }
+
+
+        .card-img-top {
+            width: 240px;
+            height: 340px;
+            object-fit: cover;
+        }
+
+        #compareNowBtn {
+            display: block;
+            margin: 0 auto;
+            border-radius: 15px;
+            text-align: center;
+            background-color: rgb(255, 255, 255);
+            color: rgb(0, 0, 0);
+        }
+
+        #comparisonContainer {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background-color: #e9fff7;
+            box-sizing: border-box;
+            padding: 10px;
+            text-align: center;
+            display: flex;
+            justify-content: space-evenly;
+
+        }
+
+        #compareNowBtn {
+            position: fixed;
+            display: none;
+            left: 90%;
+            top: 76.1%;
+            transition: all 0.3s ease;
+        }
+
+        .card-img-top:hover {
+            cursor: pointer;
+
+        }
+    </style>
+    <title>FLOOR LIVING ROOM TILES</title>
+</head>
+
+<body>
+    <div>
+        <!--Logo,search,slogan-->
+        <header>
+            <div class="header_tab_1">
+                <div>
+                    <a href="index.html"><img src="https://res.cloudinary.com/drewhmc8g/image/upload/v1704513925/logoxin_svvbmz.png"
+                        alt="error" title="Cera" class="header_logo"></a>
+
+                </div>
+                <div class="header_search">
+                    <span class="search_icon">
+                        <i class="fas fa-search"></i>
+                    </span>
+                </div>
+                <div class="header_slogan">
+                    <span>
+                        <p>Safety & Quality</p>
+                    </span>
+                </div>
+            </div>
+        </header>
+         <!-- menu -->
+         <nav>
+            <a href="index.html">Home</a>
+            <div class="menu-item"><a href="Tile_page.html">Tile</a>
+                <div class="submenu">
+                    <div><a href="Tile_page.html#wall-tiles">Wall tiles</a></div>
+                    <ul>
+                        <li><a href="Wall_bath.html">Bathroom</a></li>
+                        <li><a href="Wall_kitchen.html">Kitchen</a> </li>
+                        <li><a href="Wall_outdoor.html">Outdoor</a></li>
+                        <li><a href="Wall_living.html">Living room</a></li>
+                        <li><a href="Wall_bed.html">Bedroom</a></li>
+                        <li><a href="Wall_comm.html">Commercial spaces</a></li>
+                    </ul>
+                    <div><a href="Tile_page.html#floor-tiles">Floor tiles</a></div>
+                    <ul>
+                        <li><a href="Floor_bath.html">Bathroom</a></li>
+                        <li><a href="Floor_kitchen.html">Kitchen</a> </li>
+                        <li><a href="Floor_outdoor.html">Outdoor</a></li>
+                        <li><a href="Floor_living.html">Living room</a></li>
+                        <li><a href="Floor_bed.html">Bedroom</a></li>
+                        <li><a href="Floor_comm.html">Commercial spaces</a></li>
+                    </ul>
+                    <div><a href="Tile_page.html#sp-tiles">Special tiles</a></div>
+                    <ul>
+                        <li><a href="Special_germ.html">Germ free</a></li>
+                        <li><a href="Special_tac.html">Tactile</a></li>
+                        <li><a href="Special_anti.html">Anti static</a></li>
+                        <li><a href="Special_cool.html">Cool roof</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="menu-item"><a href="Home_page.html">Expert Corner</a>
+                <div class="submenu" style="width: 90%;">
+                    <ul>
+                        <li><a href="Tile_guide.html">Tile Guides</a></li>
+                        <li><a href="DesVid.html">Descriptive Video </a></li>
+                        <li><a href="ImaLib.html">Image Library</a></li>
+                        <li><a id="downloadCatalogueLink"
+                                href="https://drive.google.com/uc?export=download&id=1XL5DtTWUacn4cfB3U0qKKueseuS3OT1I"
+                                download>
+                                Download E-Catalogue
+                            </a></li>
+                    </ul>
+                </div>
+            </div>
+            <a href="Contact.html">Contact Us</a>
+        </nav>
+        <!--content-->
+        <section class="mt-5 text-center" id="Product">
+            <div class="mb-5">FLOOR LIVING ROOM TILES</div>
+
+            <!-- Add Compare Now button -->
+            <button id="compareNowBtn">Compare Now</button>
+            <div id="comparisonContainer"></div>
+
+        </section>
+        <!-- Add a container for displaying selected products -->
+        <div id="comparisonContainer"
+            style="position: fixed; bottom: 0; left: 0; right: 0; background-color: #FFFACD; padding: 10px; text-align: center;">
+        </div>
+
+        <!-- Add modal for comparison table -->
+        <div class="modal fade" id="comparisonModal" tabindex="-1" aria-labelledby="exampleModalLabel"
+            aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">Product Comparison</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th>Image</th>
+                                    <th>Name</th>
+                                    <th>Price</th>
+                                    <th>Material</th>
+                                    <th>Size</th>
+                                    <th>Color</th>
+                                </tr>
+                            </thead>
+                            <tbody id="comparisonTableBody">
+                                <!-- Comparison table content will be added here dynamically -->
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!--contact us-->
+        <footer class="mt-5">
+            <div class="grid" style="--bs-columns: 4;">
+                <div>
+                    <p><strong>Contact us </strong></p>
+                    <p><i class="fas fa-phone"></i> +123456789</p>
+                    <p>
+                        <i class="far fa-envelope"></i>
+                        <a href="mailto:ceramictiles012@gmail.com" class="email_link">ceramictiles012@gmail.com</a>
+                    </p>
+                </div>
+
+                <div>
+                    <ul>
+                        <p><strong>Policies</strong></p>
+                        <li>Warranty Policy</li>
+                        <li>Payment Policy</li>
+                        <li>Delivery Policy</li>
+                        <li>Privacy Policy</li>
+                    </ul>
+                </div>
+                <div>
+                    <ul>
+                        <p><strong>Support</strong></p>
+                        <div class="mt-1"><i class="fab fa-facebook"></i>Cera</br></div>
+                        <div class="mt-1"><i class="fab fa-facebook-messenger"></i>Cera</div>
+                        <div class="mt-1"><i class="fas fa-user-circle"></i>Cera</div>
+                    </ul>
+                </div>
+                <div>
+                    <p><strong>Adress</strong>: 590 Cách Mạng Tháng Tám, Phường 11, Quận 3, HCM</p> <iframe
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.3237915389745!2d106.66367477465548!3d10.786493989362885!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752ecb37e59e33%3A0xfe7c4d9f94f9e079!2zNTkwIMSQLiBDw6FjaCBN4bqhbmcgVGjDoW5nIDgsIFBoxrDhu51uZyAxMSwgUXXhuq1uIDMsIFRow6BuaCBwaOG7kSBI4buTIENow60gTWluaCA3MDAwMDAsIFZp4buHdCBOYW0!5e0!3m2!1svi!2s!4v1704721965389!5m2!1svi!2s"
+                        width="450" height="100" style="border:0;" allowfullscreen="" loading="lazy"
+                        referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+
+
+            </div>
+        </footer>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        const section = document.getElementById('Product');
+        const selectedProducts = []; // Array to store selected products
+
+        fetch('js/Product_fli.json')
+        .then(response => response.json())
+            .then(products => {
+                const row = document.createElement('div');
+                row.classList.add('row', 'justify-content-center');
+
+                products.forEach(product => {
+                    const card = document.createElement('div');
+                    card.classList.add('col-12', 'col-md-4', 'mb-3', 'text-center');
+                    card.style.border = '1px solid #ddd';
+                    card.style.borderRadius = '8px';
+                    card.style.padding = '15px';
+                    card.style.boxShadow = '0 4px 8px rgba(0, 0, 0, 0.1)';
+
+                    const img = document.createElement('img');
+                    img.src = product.pic;
+                    img.classList.add('card-img-top', 'img-fluid');
+                    img.alt = product.name;
+
+                    // Sử dụng sự kiện click để mở modal và hiển thị thông tin chi tiết
+                    img.addEventListener('click', () => {
+                        displayProductDetails(product);
+                    });
+
+                    card.appendChild(img);
+
+                    const cardBody = document.createElement('div');
+                    cardBody.classList.add('card-body');
+
+                    const name = document.createElement('h5');
+                    name.classList.add('card-title');
+                    name.textContent = product.name;
+                    cardBody.appendChild(name);
+
+                    const price = document.createElement('p');
+                    price.classList.add('card-text');
+                    price.textContent = `$${product.price.toFixed(2)}`;
+                    cardBody.appendChild(price);
+
+                    // Thêm nút "Thông tin chi tiết" và xử lý sự kiện khi nhấp vào
+                    const detailsButton = document.createElement('button');
+                    detailsButton.classList.add('btn', 'btn-primary');
+                    detailsButton.textContent = 'Details';
+                    detailsButton.addEventListener('click', () => {
+                        downloadPDF(product);
+                    });
+                    cardBody.appendChild(detailsButton);
+
+                    // Thêm nút "Compare" và xử lý sự kiện khi nhấp vào
+                    const compareButton = document.createElement('button');
+                    compareButton.classList.add('btn', 'btn-success');
+                    compareButton.textContent = '+';
+                    compareButton.addEventListener('click', () => {
+                        addToComparison(product);
+                    });
+                    cardBody.appendChild(compareButton);
+
+                    card.appendChild(cardBody);
+                    row.appendChild(card);
+                });
+
+                section.appendChild(row);
+            })
+            .catch(error => console.error('Error fetching data:', error));
+
+        // Hàm để hiển thị thông tin chi tiết trong modal
+        function displayProductDetails(product) {
+            const modal = document.createElement('div');
+            modal.classList.add('modal', 'fade', 'show', 'd-block'); // Thêm lớp 'd-block'
+            modal.id = 'productModal';
+            document.body.appendChild(modal);
+
+            const modalContent = `
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title">${product.name}</h5>
+                            <button type="button" class="close" data-dismiss="modal" onclick="closeModal()">&times;</button>
+                        </div>
+                        <div class="modal-body">
+                            <img src="${product.pic}" class="img-fluid mb-2" alt="${product.name}">
+                            <p><strong>Price:</strong> $${product.price.toFixed(2)}</p>
+                            <p><strong>Material:</strong> ${product.material}</p>
+                            <p><strong>Size:</strong> ${product.size}</p>
+                            <p><strong>Color:</strong> ${product.color}</p>
+                        </div>
+                    </div>
+                </div>
+            `;
+
+            modal.innerHTML = modalContent;
+        }
+
+        // Hàm để đóng modal
+        function closeModal() {
+            const modal = document.getElementById('productModal');
+            document.body.removeChild(modal);
+        }
+
+        // Hàm để tải về file PDF
+        function downloadPDF(product) {
+            // Tạo một đối tượng a để tải về
+            const link = document.createElement('a');
+            link.href = 'sppdf/fli.pdf'; // Thay đổi đường dẫn tới file PDF của bạn
+            link.download = `${product.name}_details.pdf`; // Đặt tên file tải về
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+        }
+
+        // Hàm để thêm sản phẩm vào danh sách so sánh
+        function addToComparison(product) {
+            // Kiểm tra xem sản phẩm đã có trong danh sách so sánh hay chưa
+            if (selectedProducts.length < 3 && !selectedProducts.includes(product)) {
+                selectedProducts.push(product);
+                updateComparisonDisplay();
+            } else if (selectedProducts.includes(product)) {
+                alert('This product has already been selected.');
+            } else {
+                alert('You can only select up to 3 products.');
+            }
+        }
+
+        // Lắng nghe sự kiện "hidden.bs.modal" khi modal được đóng
+        const comparisonModal = document.getElementById('comparisonModal');
+        comparisonModal.addEventListener('hidden.bs.modal', () => {
+            // Gọi hàm để cập nhật hiển thị danh sách so sánh sau khi modal được đóng
+            updateComparisonDisplay();
+        });
+
+        // Hàm để cập nhật hiển thị danh sách so sánh
+        function updateComparisonDisplay() {
+            const comparisonContainer = document.getElementById('comparisonContainer');
+            const compareNowBtn = document.getElementById('compareNowBtn');
+
+            comparisonContainer.innerHTML = '';
+
+            if (selectedProducts.length > 0) {
+                const productDiv = document.createElement('div');
+                productDiv.style.display = 'flex';
+
+                selectedProducts.forEach(product => {
+                    // Create a container for each selected product
+                    const productContainer = document.createElement('div');
+                    productContainer.style.marginRight = '10px'; // Add margin for spacing
+                    productContainer.style.paddingBottom = '10px';
+
+                    // Create an image element for each selected product
+                    const productImage = document.createElement('img');
+                    productImage.src = product.pic;
+                    productImage.alt = product.name;
+                    productImage.style.width = '50px'; // Set the width of the image as needed
+
+                    // Append the image to the container
+                    productContainer.appendChild(productImage);
+
+                    // Create a text element for the product name
+                    const productName = document.createElement('div');
+                    productName.textContent = product.name;
+                    productContainer.appendChild(productName);
+
+                    // Create a "Remove" button for each selected product
+                    const removeButton = document.createElement('button');
+                    removeButton.textContent = 'Remove';
+                    removeButton.classList.add('btn', 'btn-danger', 'btn-sm', 'mt-2'); // Adjust styling as needed
+                    removeButton.addEventListener('click', () => {
+                        removeProductFromComparison(product);
+                    });
+
+                    // Append the "Remove" button to the container
+                    productContainer.appendChild(removeButton);
+
+                    // Append the product container to the main container
+                    productDiv.appendChild(productContainer);
+
+                });
+
+                comparisonContainer.appendChild(productDiv);
+
+                // Show the "Compare Now" button if there are 2 or more selected products
+                if (selectedProducts.length >= 2) {
+                    compareNowBtn.style.display = 'block';
+                } else {
+                    compareNowBtn.style.display = 'none';
+                }
+            }
+        }
+
+        // Hàm để xóa sản phẩm khỏi danh sách so sánh
+        function removeProductFromComparison(product) {
+            const index = selectedProducts.indexOf(product);
+            if (index !== -1) {
+                selectedProducts.splice(index, 1);
+                updateComparisonDisplay();
+            }
+        }
+
+        // Thêm sự kiện click cho nút "Compare Now"
+        const compareNowBtn = document.getElementById('compareNowBtn');
+        compareNowBtn.addEventListener('click', () => {
+            displayComparisonTable();
+        });
+
+
+        // Hàm hiển thị bảng so sánh trong cửa sổ pop-up
+        function displayComparisonTable() {
+            const comparisonTableBody = document.getElementById('comparisonTableBody');
+            comparisonTableBody.innerHTML = '';
+            compareNowBtn.style.display = 'none';
+            selectedProducts.forEach(product => {
+                const row = comparisonTableBody.insertRow();
+
+                const imgCell = row.insertCell(0);
+                const nameCell = row.insertCell(1);
+                const priceCell = row.insertCell(2);
+                const materialCell = row.insertCell(3);
+                const sizeCell = row.insertCell(4);
+                const colorCell = row.insertCell(5);
+
+                const img = document.createElement('img');
+                img.src = product.pic;
+                img.alt = product.name;
+                img.style.width = '50px';
+                imgCell.appendChild(img);
+
+                nameCell.textContent = product.name;
+                priceCell.textContent = `$${product.price.toFixed(2)}`;
+                materialCell.textContent = product.material;
+                sizeCell.textContent = product.size;
+                colorCell.textContent = product.color;
+            });
+
+            // Hiển thị cửa sổ pop-up
+            const comparisonModal = new bootstrap.Modal(document.getElementById('comparisonModal'));
+            comparisonModal.show();
+        }
+    </script>
+
+
+</body>
+
+</html>
