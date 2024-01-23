@@ -16,7 +16,7 @@ Project title: MYTiles
          Doan Thanh Tung        Student1518654
 ============================
 
-eProject documentation at 
+eProject documentation at : https://github.com/CeraInc/MYTiles/tree/main/documents
 
 ============================
 
